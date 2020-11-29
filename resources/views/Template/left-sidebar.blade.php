@@ -71,6 +71,14 @@
               </li>
             </ul>
           </li>
+          <li class="nav-item">
+            <a href="{{ route('logout') }}" class="nav-link">
+            <i class="fas fa-link"></i>
+              <p>
+                Logout
+              </p>
+            </a>
+          </li>
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
